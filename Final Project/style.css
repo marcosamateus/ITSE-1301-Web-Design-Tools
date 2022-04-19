@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+}
+header nav {
+     height: auto;
+     padding: 10px;
+ }
+ 
+ header nav ul{
+     list-style-type: none;
+ }
+ 
+ header nav ul>li {
+     display: inline-block;
+     width: 12%;
+ 
+ }
+ 
+ header nav a {
+     text-decoration: none;
+     font-size: 1.5rem;
+ }
+header nav a:link{color: grey;}
+header nav a:visited {color: rgb(126, 126, 107);}
+header nav a:hover {color: forestgreen;}
+p{
+    font-size: x-large;
+    padding-left: 150px;
+    padding-right: 150px;
+}
