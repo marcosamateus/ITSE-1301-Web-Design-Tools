@@ -1,0 +1,55 @@
+#header {
+    text-align: left;
+    text-decoration: none;
+   }
+
+h1 {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    text-align: center;
+    line-height: normal;
+}
+#image {
+    width: 1000px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#firstp {
+    padding-top: 50px;
+}
+.paragraphs {
+}
+.paragraphs {
+}
+.paragraphs {
+}
+.paragraphs {
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+}
+#paragraphs {
+    line-height: 20px;
+    padding-bottom: 0px;
+}
+.links {
+    padding-top: 30px;
+    font-family: "vt323";
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+}
+.actuallinks {
+    color: #0029EE;
+    font-size: large;
+}
+#actuallinks {
+}
+.citations {
+    font-style: italic;
+}
